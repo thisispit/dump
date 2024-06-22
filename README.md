@@ -17,7 +17,7 @@ Here is a list of the projects currently available in this repository:
 - **Files**: `fun_script.py`, `README.md`
 
 ## calculator
-
-1. **Clone the repository:**
-   ```sh
+- **Description**: Description of the project and its purpose.
+- **Directory**: `another-fun-project`
+- **Files**: `fun_script.py`, `README.md`
 
